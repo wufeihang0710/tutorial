@@ -19,3 +19,4 @@ i
 这是克隆的
 wocaishizuizhongban
 
+测试用ssh免密登录push 看看
