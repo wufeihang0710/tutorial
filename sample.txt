@@ -9,6 +9,13 @@ i
 
 
 这是在github新增的
+<<<<<<< HEAD
 1
 
 这是原生的模拟克隆的情况
+
+11
+
+这是克隆的
+wocaishizuizhongban
+
